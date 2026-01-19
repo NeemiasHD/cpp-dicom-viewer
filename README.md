@@ -36,6 +36,8 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 1.  Clone o repositório.
 2.  Abra o projeto na IDE Qt 6.
 3.  Configure o caminho do DCMTK no `CMakeLists.txt`.
+
+
 ![Visualizador DICOM em ação](./assets/alterar-caminho-dcmtk.png)
 4.  
 5.  Compile em modo **Release**.
