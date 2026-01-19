@@ -30,8 +30,10 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 
 ### Pré-requisitos
 * [Qt 6](https://www.qt.io/development/download-qt-installer-oss) instalado.
-* Biblioteca DCMTK compilada e linkada corretamente.
+* Biblioteca [DCMTK](https://dicom.offis.de/download/dcmtk/dcmtk370/) compilada e linkada corretamente.
 * Compilador MinGW 64-bit ou MSVC.
+
+
 
 ### Execução pelo Qt 6 (Windows)
 1.  Clone o repositório.
