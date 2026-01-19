@@ -17,6 +17,8 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 # Caminho da biblioteca dcmtk instalada
 
 set(DCMTK_PATH "C:/DCMTK_FINAL")
+
+
 include_directories("${DCMTK_PATH}/include")
 link_directories("${DCMTK_PATH}/lib")
 set(SYSTEM_LIBS ws2_32 iphlpapi netapi32)
