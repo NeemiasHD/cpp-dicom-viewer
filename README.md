@@ -15,14 +15,14 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * **Metadados:** Extração e formatação automática de tags DICOM (Nome, ID, Modalidade, Data, Equipamento).
 * **Renderização Precisa:**
     * Correção de alinhamento de memória (*stride/padding*) para evitar distorções diagonais.
-    * Aplicação automática de *Window/Level* (Brilho/Contraste) baseada nos presets do exame.
+    * Aplicação automática de **Brilho/Contraste** baseada nos presets do exame.
 * **Interface Responsiva:** O visualizador mantém o *Aspect Ratio* correto e se adapta ao redimensionamento da janela.
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** C++ (Standard 17)
 * **GUI:** Qt 6 (Widgets Module)
-* **Backend DICOM:** DCMTK 3.7.x
+* **Biblioteca DICOM:** DCMTK 3.7.0
 * **Build System:** CMake & Ninja/MinGW
 
 ## ⚙️ Como Executar
@@ -32,13 +32,12 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * Biblioteca DCMTK compilada e linkada corretamente.
 * Compilador MinGW 64-bit ou MSVC.
 
-### Instalação (Windows)
+### Execução pelo Qt 6 (Windows)
 1.  Clone o repositório.
-2.  Configure o caminho do DCMTK no `CMakeLists.txt`.
-3.  Compile em modo **Release**.
-4.  Para gerar uma versão portátil (standalone), utilize o `windeployqt`.
+2.  Abra o projeto na IDE Qt 6.
+3.  Configure o caminho do DCMTK no `CMakeLists.txt`.
+![Visualizador DICOM em ação](./assets/alterar-caminho-dcmtk.png)
+4.  
+5.  Compile em modo **Release**.
+6.  Para gerar uma versão portátil (standalone), utilize o `windeployqt`.
 
-```bash
-mkdir build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-cmake --build .
