@@ -26,14 +26,10 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * **Build System:** CMake & Ninja/MinGW
 
 
-
-
-
-
 ## ⚙️ Como Executar projeto através do Qt 6
 
 ### Pré-requisitos
-* Qt 6 instalado.
+* [Qt 6](https://www.qt.io/development/download-qt-installer-oss) instalado.
 * Biblioteca DCMTK compilada e linkada corretamente.
 * Compilador MinGW 64-bit ou MSVC.
 
@@ -50,10 +46,6 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 
 
 ![Config caminho do DCMTK](./assets/compilar-modo-release.png)
-
-
-
-
 
 
 
