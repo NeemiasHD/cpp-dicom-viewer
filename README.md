@@ -25,6 +25,11 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * **Biblioteca DICOM:** DCMTK 3.7.0
 * **Build System:** CMake & Ninja/MinGW
 
+
+
+
+
+
 ## ⚙️ Como Executar projeto através do Qt 6
 
 ### Pré-requisitos
@@ -41,10 +46,15 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 ![Config caminho do DCMTK](./assets/alterar-caminho-dcmtk.png)
 
 
-5.  Compile em modo **Release**.
+4.  Compile em modo **Release**.
 
 
 ![Config caminho do DCMTK](./assets/compilar-modo-release.png)
+
+
+
+
+
 
 
 ## ⚙️ Execução pelo executável presente no repositório
