@@ -76,7 +76,7 @@ void MainWindow::carregarImagem()
         DicomImage *image = new DicomImage(filePath.toStdString().c_str());
         if (image != nullptr && image->getStatus() == EIS_Normal) {
 
-            // Aplica Window/Level (Brilho/Contraste)
+            // Aplica Brilho/Contraste
             // setWindow(0) tenta usar o preset salvo no arquivo médico.
             // Se falhar, setMinMaxWindow calcula o histograma automático
             if (!image->setWindow(0)) {
@@ -112,7 +112,7 @@ void MainWindow::resizeEvent(QResizeEvent *event)
     atualizarVisualizacao();
 }
 
-// Função que escala e centraliza
+// Função que escala e centraliza a imagem
 void MainWindow::atualizarVisualizacao()
 {
     if (m_pixmapOriginal.isNull()) return;
