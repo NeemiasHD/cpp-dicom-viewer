@@ -1,4 +1,4 @@
-# 🩻 C++ DICOM Viewer
+# C++ DICOM Viewer
 
 Um visualizador de imagens médicas desenvolvido em **C++17** utilizando o framework **Qt 6** e a biblioteca **DCMTK** (DICOM Toolkit).
 
@@ -6,7 +6,7 @@ Um visualizador de imagens médicas desenvolvido em **C++17** utilizando o frame
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-6.0%2B-green.svg)
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades 🚀
 
 Este projeto resolve desafios comuns no processamento de imagens médicas:
 
@@ -15,7 +15,7 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * **Renderização:** Aplicação automática de **Brilho/Contraste** baseada nos presets do exame.
 * **Interface Responsiva:** O visualizador mantém o *Aspect Ratio* correto e se adapta ao redimensionamento da janela.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas 🛠️
 
 * **Linguagem:** C++ (Standard 17)
 * **GUI:** Qt 6 (Widgets Module)
@@ -23,7 +23,7 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 * **Build System:** CMake & Ninja/MinGW
 
 
-## ⚙️ Como Executar projeto através do Qt 6
+## ⚙️ Como Executar projeto através do Qt 6 ⚙️
 
 ### Pré-requisitos
 * [Qt 6](https://www.qt.io/development/download-qt-installer-oss) instalado.
@@ -48,7 +48,7 @@ Este projeto resolve desafios comuns no processamento de imagens médicas:
 
 
 
-## ⚙️ Execução pelo executável presente no repositório
+## ⚙️ Execução pelo executável presente no repositório ⚙️
 
 1. Clone o repositório.
 2. Abra a pasta "Executável"
