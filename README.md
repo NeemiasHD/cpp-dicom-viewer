@@ -1,9 +1,6 @@
 # 🩻 C++ DICOM Viewer
 
-Um visualizador de imagens médicas de alta performance desenvolvido em **C++17** utilizando o framework **Qt 6** e a biblioteca **DCMTK** (DICOM Toolkit).
-
-![Project Status](https://img.shields.io/badge/status-active-success.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+Um visualizador de imagens médicas desenvolvido em **C++17** utilizando o framework **Qt 6** e a biblioteca **DCMTK** (DICOM Toolkit).
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-6.0%2B-green.svg)
 
