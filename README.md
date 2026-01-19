@@ -10,11 +10,9 @@ Um visualizador de imagens médicas desenvolvido em **C++17** utilizando o frame
 
 Este projeto resolve desafios comuns no processamento de imagens médicas:
 
-* **Leitura Robusta:** Suporte a arquivos DICOM brutos e comprimidos (JPEG/RLE) via codecs registrados.
-* **Metadados:** Extração e formatação automática de tags DICOM (Nome, ID, Modalidade, Data, Equipamento).
-* **Renderização Precisa:**
-    * Correção de alinhamento de memória (*stride/padding*) para evitar distorções diagonais.
-    * Aplicação automática de **Brilho/Contraste** baseada nos presets do exame.
+* **Leitura DICOM:** Suporte a arquivos DICOM brutos e comprimidos (JPEG/RLE) via codecs registrados.
+* **Extração de Metadados:** Extração e formatação automática de tags DICOM (Nome, ID, Modalidade, Data, Equipamento).
+* **Renderização:** Aplicação automática de **Brilho/Contraste** baseada nos presets do exame.
 * **Interface Responsiva:** O visualizador mantém o *Aspect Ratio* correto e se adapta ao redimensionamento da janela.
 
 ## 🛠️ Tecnologias Utilizadas
