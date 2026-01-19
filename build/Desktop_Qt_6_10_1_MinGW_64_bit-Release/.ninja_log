@@ -1,0 +1,53 @@
+# ninja log v6
+1108	3571	7905493002234420	CMakeFiles/DicomViewer.dir/main.cpp.obj	fa23d8f73e50829
+33	1097	7905493000573634	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+33	1097	7905493000573634	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+1099	3628	7905493002139350	CMakeFiles/DicomViewer.dir/DicomViewer_autogen/mocs_compilation.cpp.obj	e6250e552bf8dc84
+33	1097	7905493000573634	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+33	1097	7905493000573634	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+5308	6637	7905493044223955	DicomViewer.exe	29dfec7d9bbfbe06
+1117	5308	7905493002319397	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+31	226	7905493922205360	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+31	226	7905493922205360	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+31	226	7905493922205360	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+31	226	7905493922205360	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+227	3558	7905493924172556	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3558	4908	7905493957477865	DicomViewer.exe	29dfec7d9bbfbe06
+38	287	7905494118145990	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+38	287	7905494118145990	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+38	287	7905494118145990	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+38	287	7905494118145990	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+288	3724	7905494120651835	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3725	5078	7905494155001998	DicomViewer.exe	29dfec7d9bbfbe06
+34	270	7905494541922304	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+34	270	7905494541922304	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+34	270	7905494541922304	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+34	270	7905494541922304	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+271	3627	7905494544294023	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3628	4955	7905494577855309	DicomViewer.exe	29dfec7d9bbfbe06
+35	237	7905495376460119	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+35	237	7905495376460119	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+35	237	7905495376460119	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+35	237	7905495376460119	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+238	3649	7905495378491495	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3649	5013	7905495412616207	DicomViewer.exe	29dfec7d9bbfbe06
+36	281	7905496018224626	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+36	281	7905496018224626	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+36	281	7905496018224626	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+36	281	7905496018224626	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+282	3618	7905496020690012	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3618	4959	7905496054048599	DicomViewer.exe	29dfec7d9bbfbe06
+32	272	7905496673143055	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+32	272	7905496673143055	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+32	272	7905496673143055	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+32	272	7905496673143055	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+273	3634	7905496675558701	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+3634	4961	7905496709162187	DicomViewer.exe	29dfec7d9bbfbe06
+40	743	7905497880414796	DicomViewer_autogen/timestamp	1ffad87b2f805dab
+40	743	7905497880414796	DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+40	743	7905497880414796	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/timestamp	1ffad87b2f805dab
+40	743	7905497880414796	C:/Users/roger/Desktop/Teste c++/DicomViewer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/DicomViewer_autogen/mocs_compilation.cpp	1ffad87b2f805dab
+753	2802	7905497881560744	CMakeFiles/DicomViewer.dir/main.cpp.obj	fa23d8f73e50829
+745	2858	7905497881468470	CMakeFiles/DicomViewer.dir/DicomViewer_autogen/mocs_compilation.cpp.obj	e6250e552bf8dc84
+760	4484	7905497881628891	CMakeFiles/DicomViewer.dir/mainwindow.cpp.obj	5981a08723dce70f
+4484	5855	7905497918871615	DicomViewer.exe	29dfec7d9bbfbe06
